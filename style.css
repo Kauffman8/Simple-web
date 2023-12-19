@@ -33,6 +33,9 @@ li{
 .webtext{
     border: 5px dashed green;
 }
+.webtext1{
+    border: 5px dotted yellow;
+}
 .active{
     color: red;
 }
